@@ -24,7 +24,7 @@ public class Pizza {
         }
         else
         {
-            this.price=300;
+            this.price=400;
             this.toppingsPrice=120;
         }
         this.isVeg = isVeg;
